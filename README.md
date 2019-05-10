@@ -1,5 +1,7 @@
 # deepLearning-project-face-generation
 
+# odd problem with this project
+## the origional jupyter file was corrupted, needs to be rebuilt from the html document. 
 
 Face Generation
 

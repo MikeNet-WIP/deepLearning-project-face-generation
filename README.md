@@ -1,8 +1,5 @@
 # deepLearning-project-face-generation
 
-# Odd problem with this project
-## The origional jupyter file was corrupted, needs to be rebuilt from the html document. 
-
 ### used optim.lr_scheduler.ReduceLROnPlatea and nn.DataParallel cool features. 
 
 Face Generation
